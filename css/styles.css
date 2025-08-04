@@ -142,10 +142,10 @@ color: #404bbf;
 /* hero */
 .hero-section {
 background-color: #2e2f42;
-background-image: linear-gradient(to bottom,
-rgba(46, 47, 66, 0.7),
+background-image: linear-gradient(rgba(46, 47, 66, 0.7),
 rgba(46, 47, 66, 0.7)),
-url(/images/hero-section/people-office\ 1.jpg);
+url(../images/hero-section/people-office.jpg);
+background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 max-width: 1440px;
